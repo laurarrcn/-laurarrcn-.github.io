@@ -1,0 +1,55 @@
+body {
+    background-color: whitesmoke;
+    border-radius: 0%;
+    margin-bottom: -120px;
+    margin: 0%;
+}
+
+
+
+.buttons {
+    color: white;
+    display: flex;
+    background-color: black;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 85px;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    text-decoration-line: none;
+    font-size: xx-large;
+    border-radius: 20%;
+
+}
+
+.lr {
+    border-radius: 90%;
+    width: 60 px;
+    height: 60px;
+
+}
+
+.services {
+    font-size: 25px;
+    margin: 3%;
+text-align: center;
+}
+
+.img{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+
+}
+
+footer{
+    background-color: black;
+    height: 70px;
+    color: white;
+}
